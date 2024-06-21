@@ -1,1 +1,1 @@
-hello from js file.hello from kiran
+hello world
